@@ -1,0 +1,8 @@
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\bin\Debug\Qoestion1.exe.config
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\bin\Debug\Qoestion1.exe
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\bin\Debug\Qoestion1.pdb
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\obj\Debug\Qoestion1.csproj.AssemblyReference.cache
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\obj\Debug\Qoestion1.csproj.SuggestedBindingRedirects.cache
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\obj\Debug\Qoestion1.csproj.CoreCompileInputs.cache
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\obj\Debug\Qoestion1.exe
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment1_86728_MAYUR\Qoestion1\obj\Debug\Qoestion1.pdb

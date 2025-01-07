@@ -1,0 +1,8 @@
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\bin\Debug\AssignmentTwo.exe.config
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\obj\Debug\AssignmentTwo.csproj.AssemblyReference.cache
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\obj\Debug\AssignmentTwo.csproj.SuggestedBindingRedirects.cache
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\obj\Debug\AssignmentTwo.csproj.CoreCompileInputs.cache
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\obj\Debug\AssignmentTwo.exe
+C:\D-Drive Data\PD-DAC\MyGitData\MS.NET\Assignment2_86728_MAYUR\AssignmentTwo\obj\Debug\AssignmentTwo.pdb
